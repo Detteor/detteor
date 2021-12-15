@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mark Kinnaman</h1>
 <h3 align="center">A rabid fan of Geospatial Technology</h3>
+<h2 align="left">A Little About Myself</h2>
+My name is Mark and I have been enamored with computers and technology for a very long time. 
 
+My love of maps and technology led me to the great new world of GIS.
+<h2 align="left">Current and Future Interest</h2>
+- 🌱 I’m currently learning **Rust and new GIS Python packages**
+<br>
+- I am always working on my skills and trying to learn about a lot of different technology
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/detteor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="detteor" height="30" width="40" /></a>
