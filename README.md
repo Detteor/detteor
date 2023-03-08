@@ -5,7 +5,7 @@ My name is Mark and I have been enamored with computers and technology for a ver
 
 My love of maps and technology led me to the great new world of GIS.
 <h2 align="left">Current and Future Interest</h2>
-- 🌱 I’m currently learning **Rust, Deno, Flask, and new GIS Python packages**
+- 🌱 I’m currently learning <b>Rust, Deno, Flask, and new GIS Python packages</b>
 <br>
 - I am always working on my skills and trying to learn about a lot of different technology
 <h3 align="left">Connect with me:</h3>
